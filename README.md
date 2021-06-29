@@ -1,2 +1,2 @@
 # SolidityInbox
-First Solidity Project
+First Solidity Project.
