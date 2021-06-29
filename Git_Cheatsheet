@@ -1,0 +1,5 @@
+Git pull origin master
+git add .
+git commit -m "Comment" 
+git push origin master
+
